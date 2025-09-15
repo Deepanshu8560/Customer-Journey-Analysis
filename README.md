@@ -79,7 +79,8 @@ customer-journey-analytics/
 │   ├── customer_metrics.sql
 │   ├── attribution_queries.sql
 │   └── dashboard_queries.sql
-├── visualizations/
-    ├── channel_attribution.png
+└── visualizations/
+    ├── dashboard.png
+    └── dashboard2.png
 
 ```
